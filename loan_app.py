@@ -32,4 +32,4 @@ def run():
         print(LoanAmount)
         
 if __name__=='__main__': 
-    main()
+    run()
